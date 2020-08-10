@@ -1,4 +1,4 @@
-# Vue Canvas Poster 🎉
+# Vue Poster 🎉
 
 > [Vue Canvas Poster](https://github.com/qappleh/vue-poster) 一个通过 css 属性画 canvas 图片的轻量级的 vue 组件。 (A lightweight vue components use canvas draw image by css properties.)
 
